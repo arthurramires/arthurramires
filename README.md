@@ -5,11 +5,11 @@
 
 Bachelor in Systems Analysis and Development and back-end developer;
 
-🪐 18-years-old; from brazil.
+🪐 20-years-old; from brazil.
 
-🦾 Currently working as a Fullstack Developer in Gestor Food/MT
+🦾 Currently working as a Backend Developer in Before TI/MS
 
-👩🏻‍💻 currently learning react, node.js and machine learning.
+👩🏻‍💻 currently learning php, react, node.js and machine learning.
 
 💬 you can talk to me if you need help or sugestion.
 
