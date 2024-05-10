@@ -1,11 +1,9 @@
 ## Hi there, I'm Arthur 👋
 
+* 👨‍🏫 Currently pursuing a Master's degree in Computer Science at the Federal University of Mato Grosso do Sul;
+* 📘 Bachelor in Systems Analysis at the Federal University of Mato Grosso do Sul ;
 
-<img src="https://user-images.githubusercontent.com/52502727/89461429-f57dee00-d739-11ea-9b7f-2b85703279f3.png" alt="drawing" width="300" height=200/>
-
-Bachelor in Systems Analysis and Development and back-end developer;
-
-🪐 20-years-old; from brazil.
+🪐 22-years-old; from Brazil.
 
 🦾 Currently working as a Backend Developer in Before TI/MS
 
@@ -13,13 +11,22 @@ Bachelor in Systems Analysis and Development and back-end developer;
 
 💬 you can talk to me if you need help or sugestion.
 
+---
+
+📈 Main objectives:
+✔️Evolve my skills as a software developer in an environment that values the culture of collaboration and autonomy;
+✔️ Acting with agile methodologies and good market practices;
+
+Main knowledge:
+✨ Technologies/Languages: PHP, Laravel, Node, SQL, Git/Github and Docker;
+✨Experience with agile methodologies (Scrum and Kanban).
 
 ---
 
 ### Connect with me
 [![Github Badge](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&link=https://github.com/arthurramires)](https://github.com/arthurramires)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-ramires-rodrigues-neto-9687a1193/)](https://www.linkedin.com/in/arthur-ramires-rodrigues-neto-9687a1193/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:arthurramires2601@gmail.com)](mailto:arthurramires2601@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:arthurrnbueno@gmail.com)](mailto:arthurrnbueno@gmail.com)
 
 
 ---
