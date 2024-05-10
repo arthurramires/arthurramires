@@ -1,7 +1,8 @@
 ## Hi there, I'm Arthur 👋
 
-* 👨‍🏫 Currently pursuing a Master's degree in Computer Science at the Federal University of Mato Grosso do Sul;
-* 📘 Bachelor in Systems Analysis at the Federal University of Mato Grosso do Sul ;
+👨‍🏫 Currently pursuing a Master's degree in Computer Science at the Federal University of Mato Grosso do Sul;
+
+📘 Bachelor in Systems Analysis at the Federal University of Mato Grosso do Sul ;
 
 🪐 22-years-old; from Brazil.
 
