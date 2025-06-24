@@ -1,70 +1,105 @@
-## Hi there, I'm Arthur 👋
+# Hi there, I'm Arthur! 👋
 
-👨‍🏫 Currently pursuing a Master's degree in Computer Science at the Federal University of Mato Grosso do Sul;
+I'm a Backend Developer and Master's student in Computer Science, passionate about creating efficient and scalable solutions.
 
-📘 Bachelor in Systems Analysis at the Federal University of Mato Grosso do Sul ;
-
-🪐 22-years-old; from Brazil.
-
-🦾 Currently working as a Backend Developer in Before TI/MS
-
-👩🏻‍💻 currently learning php, react, node.js and machine learning.
-
-💬 you can talk to me if you need help or sugestion.
+- 🎓 Pursuing a **Master's degree** in Computer Science at the Federal University of Mato Grosso do Sul (UFMS).
+- 👨‍💻 **Backend Developer** at Before TI/MS, focusing on PHP/Laravel and Node.js.
+- 🌱 **Currently exploring:** I'm deepening my knowledge in Microservices Architecture and Machine Learning.
+- 🚀 **My Goal:** To continuously evolve my skills in a collaborative environment, applying agile methodologies and industry best practices to build high-quality software.
 
 ---
 
-📈 Main objectives:
-✔️Evolve my skills as a software developer in an environment that values the culture of collaboration and autonomy;
-✔️ Acting with agile methodologies and good market practices;
+### 🛠️ Tech Stack
 
-Main knowledge:
-✨ Technologies/Languages: PHP, Laravel, Node, SQL, Git/Github and Docker;
-✨Experience with agile methodologies (Scrum and Kanban).
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/PHP-777BB4.svg?logo=PHP&logoColor=white" alt="PHP"/>
+      <br><sub><b>PHP</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white" alt="Laravel"/>
+      <br><sub><b>Laravel</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white" alt="Node.js"/>
+      <br><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript"/>
+      <br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" alt="TypeScript"/>
+      <br><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black" alt="React"/>
+      <br><sub><b>React</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white" alt="MySQL"/>
+      <br><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927.svg?logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+      <br><sub><b>SQL Server</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white" alt="Git"/>
+      <br><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white" alt="Docker"/>
+      <br><sub><b>Docker</b></sub>
+    </td>
+     <td align="center" width="120">
+      <img src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white" alt="AWS"/>
+      <br><sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" alt="Python"/>
+      <br><sub><b>Python</b></sub>
+    </td>
+  </tr>
+</table>
+
+**Key Concepts:** Microservices, MVC, Design Patterns, Clean Code, and RESTful APIs.
 
 ---
 
-### Connect with me
-[![Github Badge](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&link=https://github.com/arthurramires)](https://github.com/arthurramires)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-ramires-rodrigues-neto-9687a1193/)](https://www.linkedin.com/in/arthur-ramires-rodrigues-neto-9687a1193/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:arthurrnbueno@gmail.com)](mailto:arthurrnbueno@gmail.com)
+### 📊 My GitHub Stats
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurramires&count_private=true&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurramires&layout=compact&theme=tokyonight" />
+  </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurramires&theme=tokyonight" />
+  </a>
+</p>
 
----
-
-#### Languages
-![Graphql](https://img.shields.io/badge/GraphQL-E10098.svg?logo=GraphQL)
-![JavaScript](https://img.shields.io/badge/JavaScript-black.svg?logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-gray.svg)
-![Java](https://img.shields.io/badge/Java-007396.svg?logo=java)
-![Php](https://img.shields.io/badge/PHP-777BB4.svg?logo=PHP)
-![python](https://img.shields.io/badge/Python-64BAFF.svg?logo=Python)
-
-#### Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel)
-![Next](https://img.shields.io/badge/Next.js-000000.svg?logo=next.js)
-![Adonis Js](https://img.shields.io/badge/Adonis.js-220052.svg?logo=AdonisJS)
-![React](https://img.shields.io/badge/React-61DAFB.svg?logo=react)
-
-#### Tools & Environments
-![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?logo=azuredevops)
-![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
-![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?logo=microsoft-sql-server)
-![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white)
-
-#### Architetures & Others
-![Microservices](https://img.shields.io/badge/Microservices-gray.svg)
-![MVC](https://img.shields.io/badge/MVC-gray.svg)
-![DesignPattern](https://img.shields.io/badge/Design%20Pattern-gray.svg)
-![CleanCode](https://img.shields.io/badge/Clean%20Code-gray.svg)
-![APIsRestful](https://img.shields.io/badge/APIs%20Restful-gray.svg)
+**Tip:** You can change the `&theme=` parameter to other options like `dracula`, `radical`, `merko`, `gruvbox`, `dark`, etc.
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arthurramires&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurramires)](https://github.com/anuraghazra/github-readme-stats)
+### 🔗 Connect with Me
+
+Feel free to reach out! I'm open to collaborations, new opportunities, or just a good chat about technology.
+
+<p align="left">
+  <a href="https://github.com/arthurramires" target="_blank">
+    <img src="https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/arthur-ramires-rodrigues-neto-9687a1193/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:arthurrnbueno@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white" />
+  </a>
+</p>
